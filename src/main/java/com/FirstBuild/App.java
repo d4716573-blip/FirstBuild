@@ -15,6 +15,6 @@ public class App {
 
     @GetMapping("/")
     public String home() {
-        return "Hello bro, Docker + Maven + Jenkins deployment is working on EC2!";
+        return "Hello bro, First CICD build success!";
     }
 }
