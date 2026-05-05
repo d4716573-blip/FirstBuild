@@ -62,7 +62,7 @@ pipeline {
 
     post {
         success {
-            echo "Deployment successful. Open http://54.206.43.252:8080"
+            echo "Deployment successful. Open http://3.26.0.63:8080"
         }
 
         failure {
